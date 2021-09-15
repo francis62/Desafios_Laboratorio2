@@ -1,0 +1,14 @@
+C:\Users\franm\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.exe
+C:\Users\franm\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.deps.json
+C:\Users\franm\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.runtimeconfig.json
+C:\Users\franm\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.runtimeconfig.dev.json
+C:\Users\franm\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.dll
+C:\Users\franm\source\repos\Soldado\Soldado\bin\Debug\netcoreapp3.1\ElSoldado.pdb
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.AssemblyInfoInputs.cache
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.AssemblyInfo.cs
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.dll
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.pdb
+C:\Users\franm\source\repos\Soldado\Soldado\obj\Debug\netcoreapp3.1\ElSoldado.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\bin\Debug\netcoreapp3.1\DesafioClase9.exe
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\bin\Debug\netcoreapp3.1\DesafioClase9.deps.json
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\bin\Debug\netcoreapp3.1\DesafioClase9.runtimeconfig.json
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\bin\Debug\netcoreapp3.1\DesafioClase9.runtimeconfig.dev.json
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\bin\Debug\netcoreapp3.1\DesafioClase9.dll
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\bin\Debug\netcoreapp3.1\DesafioClase9.pdb
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.AssemblyInfoInputs.cache
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.AssemblyInfo.cs
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.dll
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.pdb
+C:\Users\franm\source\repos\DesafioClase9\DesafioClase9\obj\Debug\netcoreapp3.1\DesafioClase9.genruntimeconfig.cache
