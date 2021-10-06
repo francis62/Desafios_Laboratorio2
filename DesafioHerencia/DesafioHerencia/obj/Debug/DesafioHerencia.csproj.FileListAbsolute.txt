@@ -1,0 +1,10 @@
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.exe.config
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.exe
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.pdb
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.Form1.resources
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.Properties.Resources.resources
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.GenerateResource.cache
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.exe
+C:\Users\franm\source\repos\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.pdb
