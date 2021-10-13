@@ -1,0 +1,7 @@
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\obj\Debug\Ejercicio1_Interfaces.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\obj\Debug\Ejercicio1_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\bin\Debug\Ejercicio1_Interfaces.exe.config
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\bin\Debug\Ejercicio1_Interfaces.exe
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\bin\Debug\Ejercicio1_Interfaces.pdb
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\obj\Debug\Ejercicio1_Interfaces.exe
+C:\Users\franm\source\repos\Ejercicio1_Interfaces\Ejercicio1_Interfaces\obj\Debug\Ejercicio1_Interfaces.pdb

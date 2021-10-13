@@ -1,0 +1,7 @@
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\bin\Debug\Ejercicio2_Interfaces.exe.config
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\bin\Debug\Ejercicio2_Interfaces.exe
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\bin\Debug\Ejercicio2_Interfaces.pdb
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\obj\Debug\Ejercicio2_Interfaces.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\obj\Debug\Ejercicio2_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\obj\Debug\Ejercicio2_Interfaces.exe
+C:\Users\franm\source\repos\Ejercicio2_Interfaces\Ejercicio2_Interfaces\obj\Debug\Ejercicio2_Interfaces.pdb
