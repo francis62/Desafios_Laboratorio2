@@ -1,0 +1,7 @@
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\obj\Debug\EjercicioElectrodomesticos.csproj.AssemblyReference.cache
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\obj\Debug\EjercicioElectrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\bin\Debug\EjercicioElectrodomesticos.exe.config
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\bin\Debug\EjercicioElectrodomesticos.exe
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\bin\Debug\EjercicioElectrodomesticos.pdb
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\obj\Debug\EjercicioElectrodomesticos.exe
+C:\Users\franm\source\repos\EjercicioElectrodomesticos\EjercicioElectrodomesticos\obj\Debug\EjercicioElectrodomesticos.pdb
